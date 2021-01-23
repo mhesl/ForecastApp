@@ -7,8 +7,9 @@ buildscript {
     ext.lifecycle_version = '2.0.0'
     ext.retrofit_version = '2.9.0'
     repositories {
-        google()
+
         jcenter()
+        google()
     }
     dependencies {
         classpath "com.android.tools.build:gradle:4.1.2"
@@ -21,8 +22,9 @@ buildscript {
 
 allprojects {
     repositories {
-        google()
+
         jcenter()
+        google()
     }
 }
 
