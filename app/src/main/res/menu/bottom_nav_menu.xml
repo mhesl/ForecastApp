@@ -12,7 +12,7 @@
         android:title="7 Days" />
 
     <item
-        android:id="@+id/settings_Fragment"
+        android:id="@+id/settingsFragment"
         android:icon="@drawable/ic_settings"
         android:title="Settings" />
 </menu>
