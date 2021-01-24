@@ -1,4 +1,4 @@
-package com.example.forcast.data
+package com.example.forcast.data.response
 
 
 data class Request(
